@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Livello_1" data-name="Livello 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 195.49 97.71">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        font-family: BovineMVB-Regular, 'Bovine MVB';
+        font-size: 39px;
+      }
+
+      .cls-3 {
+        fill: #29abe2;
+      }
+    </style>
+  </defs>
+  <text class="cls-2" transform="translate(1.4 63.16)"><tspan x="0" y="0">WEBZONE</tspan></text>
+  <circle class="cls-3" cx="123.75" cy="48.85" r="9"/>
+  <circle cx="123.75" cy="48.85" r="1"/>
+  <polygon class="cls-1" points="126.06 54.21 123.67 48.59 129.32 51.17 127.51 51.94 129.16 53.47 128.61 54.05 126.88 52.49 126.06 54.21"/>
+</svg>
